@@ -4,4 +4,5 @@ chmod -R 777 /home/magento/pub
 chmod -R 777 /home/magento/generated
 chmod -R 777 /home/magento/app
 chmod -R 777 /home/magento/var
+chmod -R 777 /home/magento/bin
 
