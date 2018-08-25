@@ -1,2 +1,2 @@
 #!/bin/bash 
-apt-get install lamp-server^
+#apt-get install lamp-server^
