@@ -1,0 +1,7 @@
+#!/bin/bash
+chmod -R 777 /home/magento/vendor
+chmod -R 777 /home/magento/pub
+chmod -R 777 /home/magento/generated
+chmod -R 777 /home/magento/app
+chmod -R 777 /home/magento/var
+
